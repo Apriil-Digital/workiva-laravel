@@ -1,9 +1,9 @@
 <?php
 
-namespace Apility\Workiva\Concerns;
+namespace Apriil\Workiva\Concerns;
 
 use ReflectionClass;
-use Apility\Workiva\Attributes\Property;
+use Apriil\Workiva\Attributes\Property;
 
 trait HasAttributes
 {

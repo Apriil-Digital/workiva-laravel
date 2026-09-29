@@ -1,12 +1,12 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Concerns\HasSubResources;
-use Apility\Workiva\Concerns\IsRetrievable;
-use Apility\Workiva\Enums\OperationStatus;
-use Apility\Workiva\Facades\Workiva;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Concerns\HasSubResources;
+use Apriil\Workiva\Concerns\IsRetrievable;
+use Apriil\Workiva\Enums\OperationStatus;
+use Apriil\Workiva\Facades\Workiva;
 use Exception;
 use Illuminate\Support\Facades\Http;
 

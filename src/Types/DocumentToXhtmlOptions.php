@@ -1,8 +1,8 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
+use Apriil\Workiva\Attributes\Property;
 
 /**
  * @property bool|null $editableSimple

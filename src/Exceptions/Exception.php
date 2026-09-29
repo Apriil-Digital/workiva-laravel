@@ -1,6 +1,6 @@
 <?php
 
-namespace Apility\Workiva\Exceptions;
+namespace Apriil\Workiva\Exceptions;
 
 use Throwable;
 

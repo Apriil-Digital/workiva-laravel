@@ -1,9 +1,9 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Concerns\HasParent;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Concerns\HasParent;
 
 /**
  * @property string|null $range

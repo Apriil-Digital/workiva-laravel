@@ -1,6 +1,6 @@
 <?php
 
-namespace Apility\Workiva\Enums;
+namespace Apriil\Workiva\Enums;
 
 enum XlsxPrecision: string
 {

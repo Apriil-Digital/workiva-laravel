@@ -1,9 +1,9 @@
 <?php
 
-namespace Apility\Workiva;
+namespace Apriil\Workiva;
 
-use Apility\Workiva\Auth\ClientCredentials;
-use Apility\Workiva\Enums\Region;
+use Apriil\Workiva\Auth\ClientCredentials;
+use Apriil\Workiva\Enums\Region;
 use Illuminate\Support\ServiceProvider;
 
 class WorkivaServiceProvider extends ServiceProvider

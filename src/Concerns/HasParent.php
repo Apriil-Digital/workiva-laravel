@@ -1,8 +1,8 @@
 <?php
 
-namespace Apility\Workiva\Concerns;
+namespace Apriil\Workiva\Concerns;
 
-use Apility\Workiva\Types\Type;
+use Apriil\Workiva\Types\Type;
 
 trait HasParent
 {

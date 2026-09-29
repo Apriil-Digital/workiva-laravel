@@ -1,16 +1,16 @@
 <?php
 
-namespace Apility\Workiva\Attributes;
+namespace Apriil\Workiva\Attributes;
 
 use Attribute;
 use Closure;
 use Exception;
 
-use Apility\Workiva\Concerns\SerializesProperty;
-use Apility\Workiva\Contracts\PropertySerialization;
-use Apility\Workiva\Types\Type;
-use Apility\Workiva\Concerns\HasParent;
-use Apility\Workiva\Types\XlsxOptions;
+use Apriil\Workiva\Concerns\SerializesProperty;
+use Apriil\Workiva\Contracts\PropertySerialization;
+use Apriil\Workiva\Types\Type;
+use Apriil\Workiva\Concerns\HasParent;
+use Apriil\Workiva\Types\XlsxOptions;
 use BackedEnum;
 use Carbon\CarbonImmutable;
 

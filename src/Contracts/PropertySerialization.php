@@ -1,6 +1,6 @@
 <?php
 
-namespace Apility\Workiva\Contracts;
+namespace Apriil\Workiva\Contracts;
 
 use Closure;
 

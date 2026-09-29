@@ -3,13 +3,13 @@
 ## Install
 
 ```bash
-composer require apility/workiva-laravel
+composer require apriil/workiva-laravel
 ```
 
 ## Publish the config
 
 ```bash
-php artisan vendor:publish --provider="Apility\Workiva\WorkivaServiceProvider" --tag="config"
+php artisan vendor:publish --provider="Apriil\Workiva\WorkivaServiceProvider" --tag="config"
 ```
 
 ### Usage
@@ -19,7 +19,7 @@ php artisan vendor:publish --provider="Apility\Workiva\WorkivaServiceProvider" -
 ```php
 <?php
 
-use Apility\Workiva\Types\Document;
+use Apriil\Workiva\Types\Document;
 
 $documents = Document::list();
 ```
@@ -37,8 +37,8 @@ Document export happens asynchronous. This example uses polling to wait for the 
 In a production system, it's highly recommended that you instead dispatches a job to handle this, as it could take several minutes for the export to be completed.
 
 ```php
-use Apility\Workiva\Facades\Workiva;
-use Apility\Workiva\Enums\OperationStatus;
+use Apriil\Workiva\Facades\Workiva;
+use Apriil\Workiva\Enums\OperationStatus;
 use Exception;
 
 $request = [
@@ -83,4 +83,4 @@ Storage::put($document->name . '.html', $export);
 
 ---
 
-Copyright Apility AS &copy; 2025
+Copyright Apriil Digital &copy; 2026

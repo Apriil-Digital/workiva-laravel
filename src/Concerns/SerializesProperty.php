@@ -1,10 +1,10 @@
 <?php
 
-namespace Apility\Workiva\Concerns;
+namespace Apriil\Workiva\Concerns;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Contracts\PropertySerializable;
-use Apility\Workiva\Types\Type;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Contracts\PropertySerializable;
+use Apriil\Workiva\Types\Type;
 use BackedEnum;
 use Carbon\CarbonImmutable;
 use Closure;

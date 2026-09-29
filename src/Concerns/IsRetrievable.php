@@ -1,8 +1,8 @@
 <?php
 
-namespace Apility\Workiva\Concerns;
+namespace Apriil\Workiva\Concerns;
 
-use Apility\Workiva\Facades\Workiva;
+use Apriil\Workiva\Facades\Workiva;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
 

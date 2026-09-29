@@ -1,6 +1,6 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
 use Illuminate\Support\Collection;
 

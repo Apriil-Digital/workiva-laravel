@@ -1,9 +1,9 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Enums\PatchOperation;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Enums\PatchOperation;
 
 /**
  * @property string|null $from

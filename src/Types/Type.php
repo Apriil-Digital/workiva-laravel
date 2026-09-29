@@ -1,11 +1,11 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
 use JsonSerializable;
 
-use Apility\Workiva\Concerns\HasAttributes;
-use Apility\Workiva\Contracts\PropertySerializable;
+use Apriil\Workiva\Concerns\HasAttributes;
+use Apriil\Workiva\Contracts\PropertySerializable;
 
 abstract class Type implements PropertySerializable, JsonSerializable
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace Apility\Workiva\Auth;
+namespace Apriil\Workiva\Auth;
 
 use Illuminate\Support\Facades\Http;
 
-use Apility\Workiva\Enums\BaseURL;
-use Apility\Workiva\Enums\Endpoint;
-use Apility\Workiva\Exceptions\Exception;
+use Apriil\Workiva\Enums\BaseURL;
+use Apriil\Workiva\Enums\Endpoint;
+use Apriil\Workiva\Exceptions\Exception;
 
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\RequestException;

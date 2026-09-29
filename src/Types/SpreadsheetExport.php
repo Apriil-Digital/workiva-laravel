@@ -1,9 +1,9 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Enums\SpreadsheetExportFormat;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Enums\SpreadsheetExportFormat;
 use Illuminate\Support\Collection;
 
 #[Property('format', SpreadsheetExportFormat::class, default: SpreadsheetExportFormat::XLSX)]

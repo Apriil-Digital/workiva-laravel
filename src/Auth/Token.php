@@ -1,6 +1,6 @@
 <?php
 
-namespace Apility\Workiva\Auth;
+namespace Apriil\Workiva\Auth;
 
 use Carbon\CarbonImmutable;
 use DateTimeInterface;

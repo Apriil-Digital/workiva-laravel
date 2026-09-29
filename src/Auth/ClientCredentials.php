@@ -1,8 +1,8 @@
 <?php
 
-namespace Apility\Workiva\Auth;
+namespace Apriil\Workiva\Auth;
 
-use Apility\Workiva\Enums\Region;
+use Apriil\Workiva\Enums\Region;
 
 class ClientCredentials
 {

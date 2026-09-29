@@ -1,14 +1,14 @@
 <?php
 
-namespace Apility\Workiva;
+namespace Apriil\Workiva;
 
 use Closure;
 
-use Apility\Workiva\Auth\ClientCredentials;
-use Apility\Workiva\Auth\OAuth2;
-use Apility\Workiva\Auth\Token;
-use Apility\Workiva\Enums\BaseURL;
-use Apility\Workiva\Enums\Endpoint;
+use Apriil\Workiva\Auth\ClientCredentials;
+use Apriil\Workiva\Auth\OAuth2;
+use Apriil\Workiva\Auth\Token;
+use Apriil\Workiva\Enums\BaseURL;
+use Apriil\Workiva\Enums\Endpoint;
 
 use Illuminate\Http\Client\PendingRequest;
 use Illuminate\Http\Client\Response;

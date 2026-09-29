@@ -1,18 +1,18 @@
 <?php
 
-namespace Apility\Workiva\Facades;
+namespace Apriil\Workiva\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Apility\Workiva\Client;
+use Apriil\Workiva\Client;
 
 /**
  * @method static \Illuminate\Http\Client\Response get(string $uri, array $query = [])
  * @method static \Illuminate\Http\Client\Response post(string $uri, mixed $data = null, array $query = [])
- * @method static \Apility\Workiva\Client throwIf(\Closure $closure)
- * @method static \Apility\Workiva\Client dontThrow()
+ * @method static \Apriil\Workiva\Client throwIf(\Closure $closure)
+ * @method static \Apriil\Workiva\Client dontThrow()
  * @method static \Illuminate\Http\Client\PendingRequest http()
- * @package Apility\Workiva\Facades
- * @see \Apility\Workiva\Client
+ * @package Apriil\Workiva\Facades
+ * @see \Apriil\Workiva\Client
  */
 class Workiva extends Facade
 {

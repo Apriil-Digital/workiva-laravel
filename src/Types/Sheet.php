@@ -1,10 +1,10 @@
 <?php
 
-namespace Apility\Workiva\Types;
+namespace Apriil\Workiva\Types;
 
-use Apility\Workiva\Attributes\Property;
-use Apility\Workiva\Concerns\HasParent;
-use Apility\Workiva\Facades\Workiva;
+use Apriil\Workiva\Attributes\Property;
+use Apriil\Workiva\Concerns\HasParent;
+use Apriil\Workiva\Facades\Workiva;
 
 use Illuminate\Support\Collection;
 
